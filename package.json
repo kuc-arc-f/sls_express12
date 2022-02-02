@@ -1,0 +1,21 @@
+{
+  "name": "sls_express7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^3.9.0",
+    "apollo-server-lambda": "^3.6.1",
+    "graphql": "^16.2.0"
+  },
+  "devDependencies": {
+    "prisma": "^3.9.0",
+    "serverless-offline": "^8.3.1"
+  }
+}
